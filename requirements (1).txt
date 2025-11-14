@@ -1,7 +1,7 @@
 streamlit
-tensorflow
-keras
-numpy
+tensorflow-cpu==2.12.0
 pillow
-matplotlib
+numpy
 opencv-python
+matplotlib
+
