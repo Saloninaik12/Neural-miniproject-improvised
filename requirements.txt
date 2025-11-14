@@ -1,7 +1,7 @@
-streamlit
+streamlit==1.36.0
 tensorflow==2.15.0
 keras
 numpy
 pillow
 matplotlib
-opencv-python-headless==4.10.0.84   # keeps TF happy
+opencv-python-headless==4.8.0.74
